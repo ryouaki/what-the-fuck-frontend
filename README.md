@@ -11,6 +11,6 @@
 2. 前端与设计模式
 3. 前端与数据结构
 4. 前端与算法
-5. 前端反模式
+5. [前端模式与反模式](https://github.com/ryouaki/what-the-fuck-frontend/tree/master/docs/%E5%89%8D%E7%AB%AF%E5%8F%8D%E6%A8%A1%E5%BC%8F)
 6. 前端与k8s
 7. Vue3源码阅读
